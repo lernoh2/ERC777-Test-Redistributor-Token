@@ -1,0 +1,44 @@
+{
+	"compiler": {
+		"version": "0.8.19+commit.7dd6d404"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"LP_flattened.sol": "DSMath"
+		},
+		"evmVersion": "paris",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": true,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"LP_flattened.sol": {
+			"keccak256": "0x35ae048b74c2a9b84dfbcd889f2ee82845eb10d59440e58d561721a1c04ee02c",
+			"urls": [
+				"bzz-raw://75485ec614f40e17664cf772d7f681d3c80ebcc8fd4d5a35076e0ac7723693f6",
+				"dweb:/ipfs/QmfYJeChuW4eUtgcCbBAysR9UWeFT79RnQqFtc31zyKiWo"
+			]
+		}
+	},
+	"version": 1
+}
